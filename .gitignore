@@ -1,11 +1,3 @@
-CrashReportClient/UECC-Windows-0288017A4ECD839F6541D3B1E3834E3F/CrashReportClient.ini
-CrashReportClient/UECC-Windows-02A2FE6442272E9CF669E29BB4E46453/CrashReportClient.ini
-CrashReportClient/UECC-Windows-306BA3EC49574AD8A0AB139FB536661D/CrashReportClient.ini
-CrashReportClient/UECC-Windows-5DF07AE3432566C59ABA07BBF0E35395/CrashReportClient.ini
-CrashReportClient/UECC-Windows-BC8044004DB238CA058F0E90DB169B7E/CrashReportClient.ini
-CrashReportClient/UECC-Windows-C2A935BF413923964508F8B459AB25B4/CrashReportClient.ini
-CrashReportClient/UECC-Windows-D23220344CEA171FB6BAC5976D3BC7A3/CrashReportClient.ini
-CrashReportClient/UECC-Windows-EAD7F3744950F2491EED1C84A6A09311/CrashReportClient.ini
 Windows/AnimToTexture.ini
 Windows/CineCameraRigs.ini
 Windows/Compat.ini
@@ -47,7 +39,7 @@ Windows/StructUtils.ini
 Windows/Synthesis.ini
 Windows/TraceUtilities.ini
 Windows/VariantManagerContent.ini
-CrashReportClient/UECC-Windows-27BFAB074A060F3BDCE2F695C8DF87E3/CrashReportClient.ini
+CrashReport*
 .gitignore
 .gitignore
 .gitignore
