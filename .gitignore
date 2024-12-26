@@ -39,6 +39,7 @@ Windows/StructUtils.ini
 Windows/Synthesis.ini
 Windows/TraceUtilities.ini
 Windows/VariantManagerContent.ini
+Windows/GameUserSettings.ini
 CrashReport*
 .gitignore
 .gitignore
